@@ -91,6 +91,8 @@ flake8_output.txt
 
 # ESP-IDF default build directory name
 build
+build.clang
+secrets.h
 
 # lock files for examples and components
 dependencies.lock
